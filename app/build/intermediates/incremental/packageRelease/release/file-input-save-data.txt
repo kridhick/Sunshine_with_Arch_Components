@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Wed Mar 14 21:14:56 PDT 2018
+0.baseType=DIRECTORY
+0.base=/Users/rsk_mac/AndroidStudioProjects/Practice_Exercises/Sunshine_w_Arch_Components/app/build/intermediates/transforms/dex/release/0
+0.path=classes.dex
+0.set=DEX
+count=1

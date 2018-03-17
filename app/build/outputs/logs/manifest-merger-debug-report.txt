@@ -1,0 +1,250 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/rsk_mac/AndroidStudioProjects/Practice_Exercises/Sunshine_w_Arch_Components/app/src/main/AndroidManifest.xml:17:1-70:12
+INJECTED from /Users/rsk_mac/AndroidStudioProjects/Practice_Exercises/Sunshine_w_Arch_Components/app/src/main/AndroidManifest.xml:17:1-70:12
+INJECTED from /Users/rsk_mac/AndroidStudioProjects/Practice_Exercises/Sunshine_w_Arch_Components/app/src/main/AndroidManifest.xml:17:1-70:12
+INJECTED from /Users/rsk_mac/AndroidStudioProjects/Practice_Exercises/Sunshine_w_Arch_Components/app/src/main/AndroidManifest.xml:17:1-70:12
+MERGED from [com.android.databinding:adapters:1.3.1] /Users/rsk_mac/.gradle/caches/transforms-1/files-1.1/adapters-1.3.1.aar/d016c3ae07c2e6ad832f6bb03fc3bcaa/AndroidManifest.xml:17:1-26:12
+MERGED from [com.android.databinding:library:1.3.1] /Users/rsk_mac/.gradle/caches/transforms-1/files-1.1/library-1.3.1.aar/850e20660d65c697d6ca296a22750e5f/AndroidManifest.xml:17:1-26:12
+MERGED from [com.android.support:preference-v7:26.0.1] /Users/rsk_mac/.gradle/caches/transforms-1/files-1.1/preference-v7-26.0.1.aar/d2e039cbe9546334c502430cd053ab3d/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:appcompat-v7:26.0.1] /Users/rsk_mac/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.1.aar/25fc8cfe83cfa1e2b7ea9a07be06dd34/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:recyclerview-v7:26.0.1] /Users/rsk_mac/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.0.1.aar/655602df7e3bbe72b1600feea5f89e53/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0-beta1] /Users/rsk_mac/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0-beta1.aar/d9513a6e2a6b4db4d6315edae32795ca/AndroidManifest.xml:2:1-11:12
+MERGED from [com.firebase:firebase-jobdispatcher:0.7.0] /Users/rsk_mac/.gradle/caches/transforms-1/files-1.1/firebase-jobdispatcher-0.7.0.aar/2e01112d4d9cd5a56c24cbd875ccbcc3/AndroidManifest.xml:17:1-42:12
+MERGED from [android.arch.persistence.room:runtime:1.0.0-alpha9] /Users/rsk_mac/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0-alpha9.aar/83d93a535cd8f256f860dd92248bece3/AndroidManifest.xml:17:1-26:12
+MERGED from [android.arch.lifecycle:extensions:1.0.0-alpha9] /Users/rsk_mac/.gradle/caches/transforms-1/files-1.1/extensions-1.0.0-alpha9.aar/7debcb42945d31c4b9a784858a94da4e/AndroidManifest.xml:17:1-34:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0-alpha9] /Users/rsk_mac/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0-alpha9.aar/cecdfa60892a34b5c58e354987572816/AndroidManifest.xml:17:1-26:12
+MERGED from [com.android.support:support-v4:26.0.1] /Users/rsk_mac/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.1.aar/24905edf763658967381cca96f08b866/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:animated-vector-drawable:26.0.1] /Users/rsk_mac/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.1.aar/efb61d7f9af0cb13ecba0a0deddda980/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.0.1] /Users/rsk_mac/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.1.aar/8436f615b8f77d7195b55b81d3f4565a/AndroidManifest.xml:17:1-28:12
+MERGED from [android.arch.persistence.room:support-db-impl:1.0.0-alpha9] /Users/rsk_mac/.gradle/caches/transforms-1/files-1.1/support-db-impl-1.0.0-alpha9.aar/8c8fdf84238d88920daf4165e5283006/AndroidManifest.xml:17:1-26:12
+MERGED from [android.arch.persistence.room:support-db:1.0.0-alpha9] /Users/rsk_mac/.gradle/caches/transforms-1/files-1.1/support-db-1.0.0-alpha9.aar/b6e289dbd79cfe53640963faf243a4cf/AndroidManifest.xml:17:1-26:12
+MERGED from [android.arch.core:runtime:1.0.0-alpha9] /Users/rsk_mac/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0-alpha9.aar/6011af81405d98c022463d5435161c5e/AndroidManifest.xml:17:1-26:12
+MERGED from [com.android.support:support-media-compat:26.0.1] /Users/rsk_mac/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.1.aar/5f78b6fdd67a1ab66b8860ea5fbd8368/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.0.1] /Users/rsk_mac/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.1.aar/b3c8de2c8e7269724b498280c19773dd/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.0.1] /Users/rsk_mac/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.1.aar/61c590eeb8a4c4ee4b639e0b9f53b577/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.0.1] /Users/rsk_mac/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.1.aar/4288167d6d3b17d09d5c54f518f19398/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.0.1] /Users/rsk_mac/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.1.aar/3d6fe7a6ca2264a6038405fc41e92938/AndroidManifest.xml:17:1-31:12
+INJECTED from /Users/rsk_mac/AndroidStudioProjects/Practice_Exercises/Sunshine_w_Arch_Components/app/src/main/AndroidManifest.xml:17:1-70:12
+INJECTED from /Users/rsk_mac/AndroidStudioProjects/Practice_Exercises/Sunshine_w_Arch_Components/app/src/main/AndroidManifest.xml:17:1-70:12
+INJECTED from /Users/rsk_mac/AndroidStudioProjects/Practice_Exercises/Sunshine_w_Arch_Components/app/src/main/AndroidManifest.xml:17:1-70:12
+	package
+		ADDED from /Users/rsk_mac/AndroidStudioProjects/Practice_Exercises/Sunshine_w_Arch_Components/app/src/main/AndroidManifest.xml:19:5-43
+		INJECTED from /Users/rsk_mac/AndroidStudioProjects/Practice_Exercises/Sunshine_w_Arch_Components/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/rsk_mac/AndroidStudioProjects/Practice_Exercises/Sunshine_w_Arch_Components/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/rsk_mac/AndroidStudioProjects/Practice_Exercises/Sunshine_w_Arch_Components/app/src/main/AndroidManifest.xml
+		ADDED from /Users/rsk_mac/AndroidStudioProjects/Practice_Exercises/Sunshine_w_Arch_Components/app/src/main/AndroidManifest.xml:17:1-70:12
+		INJECTED from /Users/rsk_mac/AndroidStudioProjects/Practice_Exercises/Sunshine_w_Arch_Components/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/rsk_mac/AndroidStudioProjects/Practice_Exercises/Sunshine_w_Arch_Components/app/src/main/AndroidManifest.xml
+		ADDED from /Users/rsk_mac/AndroidStudioProjects/Practice_Exercises/Sunshine_w_Arch_Components/app/src/main/AndroidManifest.xml:17:1-70:12
+		INJECTED from /Users/rsk_mac/AndroidStudioProjects/Practice_Exercises/Sunshine_w_Arch_Components/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/rsk_mac/AndroidStudioProjects/Practice_Exercises/Sunshine_w_Arch_Components/app/src/main/AndroidManifest.xml:18:5-63
+uses-permission#android.permission.INTERNET
+ADDED from /Users/rsk_mac/AndroidStudioProjects/Practice_Exercises/Sunshine_w_Arch_Components/app/src/main/AndroidManifest.xml:22:5-66
+	android:name
+		ADDED from /Users/rsk_mac/AndroidStudioProjects/Practice_Exercises/Sunshine_w_Arch_Components/app/src/main/AndroidManifest.xml:22:22-64
+application
+ADDED from /Users/rsk_mac/AndroidStudioProjects/Practice_Exercises/Sunshine_w_Arch_Components/app/src/main/AndroidManifest.xml:24:5-69:19
+MERGED from [com.android.support:preference-v7:26.0.1] /Users/rsk_mac/.gradle/caches/transforms-1/files-1.1/preference-v7-26.0.1.aar/d2e039cbe9546334c502430cd053ab3d/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:preference-v7:26.0.1] /Users/rsk_mac/.gradle/caches/transforms-1/files-1.1/preference-v7-26.0.1.aar/d2e039cbe9546334c502430cd053ab3d/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:appcompat-v7:26.0.1] /Users/rsk_mac/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.1.aar/25fc8cfe83cfa1e2b7ea9a07be06dd34/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.0.1] /Users/rsk_mac/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.1.aar/25fc8cfe83cfa1e2b7ea9a07be06dd34/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:recyclerview-v7:26.0.1] /Users/rsk_mac/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.0.1.aar/655602df7e3bbe72b1600feea5f89e53/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.0.1] /Users/rsk_mac/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.0.1.aar/655602df7e3bbe72b1600feea5f89e53/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0-beta1] /Users/rsk_mac/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0-beta1.aar/d9513a6e2a6b4db4d6315edae32795ca/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0-beta1] /Users/rsk_mac/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0-beta1.aar/d9513a6e2a6b4db4d6315edae32795ca/AndroidManifest.xml:9:5-20
+MERGED from [com.firebase:firebase-jobdispatcher:0.7.0] /Users/rsk_mac/.gradle/caches/transforms-1/files-1.1/firebase-jobdispatcher-0.7.0.aar/2e01112d4d9cd5a56c24cbd875ccbcc3/AndroidManifest.xml:26:5-40:19
+MERGED from [com.firebase:firebase-jobdispatcher:0.7.0] /Users/rsk_mac/.gradle/caches/transforms-1/files-1.1/firebase-jobdispatcher-0.7.0.aar/2e01112d4d9cd5a56c24cbd875ccbcc3/AndroidManifest.xml:26:5-40:19
+MERGED from [android.arch.lifecycle:extensions:1.0.0-alpha9] /Users/rsk_mac/.gradle/caches/transforms-1/files-1.1/extensions-1.0.0-alpha9.aar/7debcb42945d31c4b9a784858a94da4e/AndroidManifest.xml:26:5-32:19
+MERGED from [android.arch.lifecycle:extensions:1.0.0-alpha9] /Users/rsk_mac/.gradle/caches/transforms-1/files-1.1/extensions-1.0.0-alpha9.aar/7debcb42945d31c4b9a784858a94da4e/AndroidManifest.xml:26:5-32:19
+MERGED from [com.android.support:support-v4:26.0.1] /Users/rsk_mac/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.1.aar/24905edf763658967381cca96f08b866/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.0.1] /Users/rsk_mac/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.1.aar/24905edf763658967381cca96f08b866/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:animated-vector-drawable:26.0.1] /Users/rsk_mac/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.1.aar/efb61d7f9af0cb13ecba0a0deddda980/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.0.1] /Users/rsk_mac/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.1.aar/efb61d7f9af0cb13ecba0a0deddda980/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.0.1] /Users/rsk_mac/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.1.aar/8436f615b8f77d7195b55b81d3f4565a/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.0.1] /Users/rsk_mac/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.1.aar/8436f615b8f77d7195b55b81d3f4565a/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-media-compat:26.0.1] /Users/rsk_mac/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.1.aar/5f78b6fdd67a1ab66b8860ea5fbd8368/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.0.1] /Users/rsk_mac/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.1.aar/5f78b6fdd67a1ab66b8860ea5fbd8368/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.0.1] /Users/rsk_mac/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.1.aar/b3c8de2c8e7269724b498280c19773dd/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.0.1] /Users/rsk_mac/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.1.aar/b3c8de2c8e7269724b498280c19773dd/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.0.1] /Users/rsk_mac/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.1.aar/61c590eeb8a4c4ee4b639e0b9f53b577/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.0.1] /Users/rsk_mac/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.1.aar/61c590eeb8a4c4ee4b639e0b9f53b577/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.0.1] /Users/rsk_mac/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.1.aar/4288167d6d3b17d09d5c54f518f19398/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.0.1] /Users/rsk_mac/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.1.aar/4288167d6d3b17d09d5c54f518f19398/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.0.1] /Users/rsk_mac/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.1.aar/3d6fe7a6ca2264a6038405fc41e92938/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.0.1] /Users/rsk_mac/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.1.aar/3d6fe7a6ca2264a6038405fc41e92938/AndroidManifest.xml:25:5-29:19
+	android:supportsRtl
+		ADDED from /Users/rsk_mac/AndroidStudioProjects/Practice_Exercises/Sunshine_w_Arch_Components/app/src/main/AndroidManifest.xml:28:9-35
+	android:label
+		ADDED from /Users/rsk_mac/AndroidStudioProjects/Practice_Exercises/Sunshine_w_Arch_Components/app/src/main/AndroidManifest.xml:27:9-41
+	android:icon
+		ADDED from /Users/rsk_mac/AndroidStudioProjects/Practice_Exercises/Sunshine_w_Arch_Components/app/src/main/AndroidManifest.xml:26:9-43
+	android:allowBackup
+		ADDED from /Users/rsk_mac/AndroidStudioProjects/Practice_Exercises/Sunshine_w_Arch_Components/app/src/main/AndroidManifest.xml:25:9-35
+	android:theme
+		ADDED from /Users/rsk_mac/AndroidStudioProjects/Practice_Exercises/Sunshine_w_Arch_Components/app/src/main/AndroidManifest.xml:29:9-40
+activity#com.example.android.sunshine.ui.list.MainActivity
+ADDED from /Users/rsk_mac/AndroidStudioProjects/Practice_Exercises/Sunshine_w_Arch_Components/app/src/main/AndroidManifest.xml:32:9-41:20
+	android:label
+		ADDED from /Users/rsk_mac/AndroidStudioProjects/Practice_Exercises/Sunshine_w_Arch_Components/app/src/main/AndroidManifest.xml:34:13-45
+	android:launchMode
+		ADDED from /Users/rsk_mac/AndroidStudioProjects/Practice_Exercises/Sunshine_w_Arch_Components/app/src/main/AndroidManifest.xml:35:13-43
+	android:theme
+		ADDED from /Users/rsk_mac/AndroidStudioProjects/Practice_Exercises/Sunshine_w_Arch_Components/app/src/main/AndroidManifest.xml:36:13-53
+	android:name
+		ADDED from /Users/rsk_mac/AndroidStudioProjects/Practice_Exercises/Sunshine_w_Arch_Components/app/src/main/AndroidManifest.xml:33:13-49
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/rsk_mac/AndroidStudioProjects/Practice_Exercises/Sunshine_w_Arch_Components/app/src/main/AndroidManifest.xml:37:13-40:29
+action#android.intent.action.MAIN
+ADDED from /Users/rsk_mac/AndroidStudioProjects/Practice_Exercises/Sunshine_w_Arch_Components/app/src/main/AndroidManifest.xml:38:17-68
+	android:name
+		ADDED from /Users/rsk_mac/AndroidStudioProjects/Practice_Exercises/Sunshine_w_Arch_Components/app/src/main/AndroidManifest.xml:38:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/rsk_mac/AndroidStudioProjects/Practice_Exercises/Sunshine_w_Arch_Components/app/src/main/AndroidManifest.xml:39:17-76
+	android:name
+		ADDED from /Users/rsk_mac/AndroidStudioProjects/Practice_Exercises/Sunshine_w_Arch_Components/app/src/main/AndroidManifest.xml:39:27-74
+activity#com.example.android.sunshine.ui.detail.DetailActivity
+ADDED from /Users/rsk_mac/AndroidStudioProjects/Practice_Exercises/Sunshine_w_Arch_Components/app/src/main/AndroidManifest.xml:44:9-52:20
+	android:parentActivityName
+		ADDED from /Users/rsk_mac/AndroidStudioProjects/Practice_Exercises/Sunshine_w_Arch_Components/app/src/main/AndroidManifest.xml:47:13-63
+	android:label
+		ADDED from /Users/rsk_mac/AndroidStudioProjects/Practice_Exercises/Sunshine_w_Arch_Components/app/src/main/AndroidManifest.xml:46:13-58
+	android:theme
+		ADDED from /Users/rsk_mac/AndroidStudioProjects/Practice_Exercises/Sunshine_w_Arch_Components/app/src/main/AndroidManifest.xml:48:13-44
+	android:name
+		ADDED from /Users/rsk_mac/AndroidStudioProjects/Practice_Exercises/Sunshine_w_Arch_Components/app/src/main/AndroidManifest.xml:45:13-53
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from /Users/rsk_mac/AndroidStudioProjects/Practice_Exercises/Sunshine_w_Arch_Components/app/src/main/AndroidManifest.xml:49:13-51:56
+	android:value
+		ADDED from /Users/rsk_mac/AndroidStudioProjects/Practice_Exercises/Sunshine_w_Arch_Components/app/src/main/AndroidManifest.xml:51:17-54
+	android:name
+		ADDED from /Users/rsk_mac/AndroidStudioProjects/Practice_Exercises/Sunshine_w_Arch_Components/app/src/main/AndroidManifest.xml:50:17-63
+service#com.example.android.sunshine.data.network.SunshineSyncIntentService
+ADDED from /Users/rsk_mac/AndroidStudioProjects/Practice_Exercises/Sunshine_w_Arch_Components/app/src/main/AndroidManifest.xml:56:9-58:40
+	android:exported
+		ADDED from /Users/rsk_mac/AndroidStudioProjects/Practice_Exercises/Sunshine_w_Arch_Components/app/src/main/AndroidManifest.xml:58:13-37
+	android:name
+		ADDED from /Users/rsk_mac/AndroidStudioProjects/Practice_Exercises/Sunshine_w_Arch_Components/app/src/main/AndroidManifest.xml:57:13-67
+service#com.example.android.sunshine.data.network.SunshineFirebaseJobService
+ADDED from /Users/rsk_mac/AndroidStudioProjects/Practice_Exercises/Sunshine_w_Arch_Components/app/src/main/AndroidManifest.xml:61:9-67:19
+	android:exported
+		ADDED from /Users/rsk_mac/AndroidStudioProjects/Practice_Exercises/Sunshine_w_Arch_Components/app/src/main/AndroidManifest.xml:63:13-37
+	android:name
+		ADDED from /Users/rsk_mac/AndroidStudioProjects/Practice_Exercises/Sunshine_w_Arch_Components/app/src/main/AndroidManifest.xml:62:13-68
+intent-filter#com.firebase.jobdispatcher.ACTION_EXECUTE
+ADDED from /Users/rsk_mac/AndroidStudioProjects/Practice_Exercises/Sunshine_w_Arch_Components/app/src/main/AndroidManifest.xml:64:13-66:29
+action#com.firebase.jobdispatcher.ACTION_EXECUTE
+ADDED from /Users/rsk_mac/AndroidStudioProjects/Practice_Exercises/Sunshine_w_Arch_Components/app/src/main/AndroidManifest.xml:65:17-83
+	android:name
+		ADDED from /Users/rsk_mac/AndroidStudioProjects/Practice_Exercises/Sunshine_w_Arch_Components/app/src/main/AndroidManifest.xml:65:25-81
+uses-sdk
+INJECTED from /Users/rsk_mac/AndroidStudioProjects/Practice_Exercises/Sunshine_w_Arch_Components/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/rsk_mac/AndroidStudioProjects/Practice_Exercises/Sunshine_w_Arch_Components/app/src/main/AndroidManifest.xml
+INJECTED from /Users/rsk_mac/AndroidStudioProjects/Practice_Exercises/Sunshine_w_Arch_Components/app/src/main/AndroidManifest.xml
+MERGED from [com.android.databinding:adapters:1.3.1] /Users/rsk_mac/.gradle/caches/transforms-1/files-1.1/adapters-1.3.1.aar/d016c3ae07c2e6ad832f6bb03fc3bcaa/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.databinding:adapters:1.3.1] /Users/rsk_mac/.gradle/caches/transforms-1/files-1.1/adapters-1.3.1.aar/d016c3ae07c2e6ad832f6bb03fc3bcaa/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.databinding:library:1.3.1] /Users/rsk_mac/.gradle/caches/transforms-1/files-1.1/library-1.3.1.aar/850e20660d65c697d6ca296a22750e5f/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.databinding:library:1.3.1] /Users/rsk_mac/.gradle/caches/transforms-1/files-1.1/library-1.3.1.aar/850e20660d65c697d6ca296a22750e5f/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:preference-v7:26.0.1] /Users/rsk_mac/.gradle/caches/transforms-1/files-1.1/preference-v7-26.0.1.aar/d2e039cbe9546334c502430cd053ab3d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:preference-v7:26.0.1] /Users/rsk_mac/.gradle/caches/transforms-1/files-1.1/preference-v7-26.0.1.aar/d2e039cbe9546334c502430cd053ab3d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:26.0.1] /Users/rsk_mac/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.1.aar/25fc8cfe83cfa1e2b7ea9a07be06dd34/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.0.1] /Users/rsk_mac/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.1.aar/25fc8cfe83cfa1e2b7ea9a07be06dd34/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:recyclerview-v7:26.0.1] /Users/rsk_mac/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.0.1.aar/655602df7e3bbe72b1600feea5f89e53/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.0.1] /Users/rsk_mac/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.0.1.aar/655602df7e3bbe72b1600feea5f89e53/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0-beta1] /Users/rsk_mac/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0-beta1.aar/d9513a6e2a6b4db4d6315edae32795ca/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0-beta1] /Users/rsk_mac/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0-beta1.aar/d9513a6e2a6b4db4d6315edae32795ca/AndroidManifest.xml:5:5-7:41
+MERGED from [com.firebase:firebase-jobdispatcher:0.7.0] /Users/rsk_mac/.gradle/caches/transforms-1/files-1.1/firebase-jobdispatcher-0.7.0.aar/2e01112d4d9cd5a56c24cbd875ccbcc3/AndroidManifest.xml:22:5-24:41
+MERGED from [com.firebase:firebase-jobdispatcher:0.7.0] /Users/rsk_mac/.gradle/caches/transforms-1/files-1.1/firebase-jobdispatcher-0.7.0.aar/2e01112d4d9cd5a56c24cbd875ccbcc3/AndroidManifest.xml:22:5-24:41
+MERGED from [android.arch.persistence.room:runtime:1.0.0-alpha9] /Users/rsk_mac/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0-alpha9.aar/83d93a535cd8f256f860dd92248bece3/AndroidManifest.xml:22:5-24:41
+MERGED from [android.arch.persistence.room:runtime:1.0.0-alpha9] /Users/rsk_mac/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0-alpha9.aar/83d93a535cd8f256f860dd92248bece3/AndroidManifest.xml:22:5-24:41
+MERGED from [android.arch.lifecycle:extensions:1.0.0-alpha9] /Users/rsk_mac/.gradle/caches/transforms-1/files-1.1/extensions-1.0.0-alpha9.aar/7debcb42945d31c4b9a784858a94da4e/AndroidManifest.xml:22:5-24:41
+MERGED from [android.arch.lifecycle:extensions:1.0.0-alpha9] /Users/rsk_mac/.gradle/caches/transforms-1/files-1.1/extensions-1.0.0-alpha9.aar/7debcb42945d31c4b9a784858a94da4e/AndroidManifest.xml:22:5-24:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0-alpha9] /Users/rsk_mac/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0-alpha9.aar/cecdfa60892a34b5c58e354987572816/AndroidManifest.xml:22:5-24:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0-alpha9] /Users/rsk_mac/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0-alpha9.aar/cecdfa60892a34b5c58e354987572816/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-v4:26.0.1] /Users/rsk_mac/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.1.aar/24905edf763658967381cca96f08b866/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.0.1] /Users/rsk_mac/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.1.aar/24905edf763658967381cca96f08b866/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:animated-vector-drawable:26.0.1] /Users/rsk_mac/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.1.aar/efb61d7f9af0cb13ecba0a0deddda980/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.0.1] /Users/rsk_mac/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.1.aar/efb61d7f9af0cb13ecba0a0deddda980/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.1] /Users/rsk_mac/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.1.aar/8436f615b8f77d7195b55b81d3f4565a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.1] /Users/rsk_mac/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.1.aar/8436f615b8f77d7195b55b81d3f4565a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence.room:support-db-impl:1.0.0-alpha9] /Users/rsk_mac/.gradle/caches/transforms-1/files-1.1/support-db-impl-1.0.0-alpha9.aar/8c8fdf84238d88920daf4165e5283006/AndroidManifest.xml:22:5-24:41
+MERGED from [android.arch.persistence.room:support-db-impl:1.0.0-alpha9] /Users/rsk_mac/.gradle/caches/transforms-1/files-1.1/support-db-impl-1.0.0-alpha9.aar/8c8fdf84238d88920daf4165e5283006/AndroidManifest.xml:22:5-24:41
+MERGED from [android.arch.persistence.room:support-db:1.0.0-alpha9] /Users/rsk_mac/.gradle/caches/transforms-1/files-1.1/support-db-1.0.0-alpha9.aar/b6e289dbd79cfe53640963faf243a4cf/AndroidManifest.xml:22:5-24:41
+MERGED from [android.arch.persistence.room:support-db:1.0.0-alpha9] /Users/rsk_mac/.gradle/caches/transforms-1/files-1.1/support-db-1.0.0-alpha9.aar/b6e289dbd79cfe53640963faf243a4cf/AndroidManifest.xml:22:5-24:41
+MERGED from [android.arch.core:runtime:1.0.0-alpha9] /Users/rsk_mac/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0-alpha9.aar/6011af81405d98c022463d5435161c5e/AndroidManifest.xml:22:5-24:41
+MERGED from [android.arch.core:runtime:1.0.0-alpha9] /Users/rsk_mac/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0-alpha9.aar/6011af81405d98c022463d5435161c5e/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-media-compat:26.0.1] /Users/rsk_mac/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.1.aar/5f78b6fdd67a1ab66b8860ea5fbd8368/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.0.1] /Users/rsk_mac/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.1.aar/5f78b6fdd67a1ab66b8860ea5fbd8368/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.1] /Users/rsk_mac/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.1.aar/b3c8de2c8e7269724b498280c19773dd/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.0.1] /Users/rsk_mac/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.1.aar/b3c8de2c8e7269724b498280c19773dd/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.0.1] /Users/rsk_mac/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.1.aar/61c590eeb8a4c4ee4b639e0b9f53b577/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.0.1] /Users/rsk_mac/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.1.aar/61c590eeb8a4c4ee4b639e0b9f53b577/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.0.1] /Users/rsk_mac/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.1.aar/4288167d6d3b17d09d5c54f518f19398/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.0.1] /Users/rsk_mac/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.1.aar/4288167d6d3b17d09d5c54f518f19398/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:26.0.1] /Users/rsk_mac/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.1.aar/3d6fe7a6ca2264a6038405fc41e92938/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.0.1] /Users/rsk_mac/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.1.aar/3d6fe7a6ca2264a6038405fc41e92938/AndroidManifest.xml:21:5-23:58
+INJECTED from /Users/rsk_mac/AndroidStudioProjects/Practice_Exercises/Sunshine_w_Arch_Components/app/src/main/AndroidManifest.xml
+INJECTED from /Users/rsk_mac/AndroidStudioProjects/Practice_Exercises/Sunshine_w_Arch_Components/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.0.1] /Users/rsk_mac/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.1.aar/25fc8cfe83cfa1e2b7ea9a07be06dd34/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /Users/rsk_mac/AndroidStudioProjects/Practice_Exercises/Sunshine_w_Arch_Components/app/src/main/AndroidManifest.xml
+		ADDED from /Users/rsk_mac/AndroidStudioProjects/Practice_Exercises/Sunshine_w_Arch_Components/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/rsk_mac/AndroidStudioProjects/Practice_Exercises/Sunshine_w_Arch_Components/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/rsk_mac/AndroidStudioProjects/Practice_Exercises/Sunshine_w_Arch_Components/app/src/main/AndroidManifest.xml
+		ADDED from /Users/rsk_mac/AndroidStudioProjects/Practice_Exercises/Sunshine_w_Arch_Components/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/rsk_mac/AndroidStudioProjects/Practice_Exercises/Sunshine_w_Arch_Components/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:preference-v7:26.0.1] /Users/rsk_mac/.gradle/caches/transforms-1/files-1.1/preference-v7-26.0.1.aar/d2e039cbe9546334c502430cd053ab3d/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:appcompat-v7:26.0.1] /Users/rsk_mac/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.1.aar/25fc8cfe83cfa1e2b7ea9a07be06dd34/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.0.1] /Users/rsk_mac/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.1.aar/25fc8cfe83cfa1e2b7ea9a07be06dd34/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:recyclerview-v7:26.0.1] /Users/rsk_mac/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.0.1.aar/655602df7e3bbe72b1600feea5f89e53/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.0.1] /Users/rsk_mac/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.0.1.aar/655602df7e3bbe72b1600feea5f89e53/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.0.1] /Users/rsk_mac/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.1.aar/24905edf763658967381cca96f08b866/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.0.1] /Users/rsk_mac/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.1.aar/24905edf763658967381cca96f08b866/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.0.1] /Users/rsk_mac/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.1.aar/efb61d7f9af0cb13ecba0a0deddda980/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.0.1] /Users/rsk_mac/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.1.aar/efb61d7f9af0cb13ecba0a0deddda980/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.0.1] /Users/rsk_mac/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.1.aar/8436f615b8f77d7195b55b81d3f4565a/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.0.1] /Users/rsk_mac/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.1.aar/8436f615b8f77d7195b55b81d3f4565a/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-media-compat:26.0.1] /Users/rsk_mac/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.1.aar/5f78b6fdd67a1ab66b8860ea5fbd8368/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.0.1] /Users/rsk_mac/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.1.aar/5f78b6fdd67a1ab66b8860ea5fbd8368/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.0.1] /Users/rsk_mac/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.1.aar/b3c8de2c8e7269724b498280c19773dd/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.0.1] /Users/rsk_mac/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.1.aar/b3c8de2c8e7269724b498280c19773dd/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.0.1] /Users/rsk_mac/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.1.aar/61c590eeb8a4c4ee4b639e0b9f53b577/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.0.1] /Users/rsk_mac/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.1.aar/61c590eeb8a4c4ee4b639e0b9f53b577/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.0.1] /Users/rsk_mac/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.1.aar/4288167d6d3b17d09d5c54f518f19398/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.0.1] /Users/rsk_mac/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.1.aar/4288167d6d3b17d09d5c54f518f19398/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.0.1] /Users/rsk_mac/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.1.aar/3d6fe7a6ca2264a6038405fc41e92938/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.0.1] /Users/rsk_mac/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.1.aar/3d6fe7a6ca2264a6038405fc41e92938/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:preference-v7:26.0.1] /Users/rsk_mac/.gradle/caches/transforms-1/files-1.1/preference-v7-26.0.1.aar/d2e039cbe9546334c502430cd053ab3d/AndroidManifest.xml:25:13-35
+	android:name
+		ADDED from [com.android.support:preference-v7:26.0.1] /Users/rsk_mac/.gradle/caches/transforms-1/files-1.1/preference-v7-26.0.1.aar/d2e039cbe9546334c502430cd053ab3d/AndroidManifest.xml:24:13-51
+service#com.firebase.jobdispatcher.GooglePlayReceiver
+ADDED from [com.firebase:firebase-jobdispatcher:0.7.0] /Users/rsk_mac/.gradle/caches/transforms-1/files-1.1/firebase-jobdispatcher-0.7.0.aar/2e01112d4d9cd5a56c24cbd875ccbcc3/AndroidManifest.xml:32:9-39:19
+	android:exported
+		ADDED from [com.firebase:firebase-jobdispatcher:0.7.0] /Users/rsk_mac/.gradle/caches/transforms-1/files-1.1/firebase-jobdispatcher-0.7.0.aar/2e01112d4d9cd5a56c24cbd875ccbcc3/AndroidManifest.xml:34:13-36
+	android:permission
+		ADDED from [com.firebase:firebase-jobdispatcher:0.7.0] /Users/rsk_mac/.gradle/caches/transforms-1/files-1.1/firebase-jobdispatcher-0.7.0.aar/2e01112d4d9cd5a56c24cbd875ccbcc3/AndroidManifest.xml:35:13-93
+	android:name
+		ADDED from [com.firebase:firebase-jobdispatcher:0.7.0] /Users/rsk_mac/.gradle/caches/transforms-1/files-1.1/firebase-jobdispatcher-0.7.0.aar/2e01112d4d9cd5a56c24cbd875ccbcc3/AndroidManifest.xml:33:13-73
+intent-filter#com.google.android.gms.gcm.ACTION_TASK_READY
+ADDED from [com.firebase:firebase-jobdispatcher:0.7.0] /Users/rsk_mac/.gradle/caches/transforms-1/files-1.1/firebase-jobdispatcher-0.7.0.aar/2e01112d4d9cd5a56c24cbd875ccbcc3/AndroidManifest.xml:36:13-38:29
+action#com.google.android.gms.gcm.ACTION_TASK_READY
+ADDED from [com.firebase:firebase-jobdispatcher:0.7.0] /Users/rsk_mac/.gradle/caches/transforms-1/files-1.1/firebase-jobdispatcher-0.7.0.aar/2e01112d4d9cd5a56c24cbd875ccbcc3/AndroidManifest.xml:37:17-87
+	android:name
+		ADDED from [com.firebase:firebase-jobdispatcher:0.7.0] /Users/rsk_mac/.gradle/caches/transforms-1/files-1.1/firebase-jobdispatcher-0.7.0.aar/2e01112d4d9cd5a56c24cbd875ccbcc3/AndroidManifest.xml:37:25-84
+provider#android.arch.lifecycle.LifecycleRuntimeTrojanProvider
+ADDED from [android.arch.lifecycle:extensions:1.0.0-alpha9] /Users/rsk_mac/.gradle/caches/transforms-1/files-1.1/extensions-1.0.0-alpha9.aar/7debcb42945d31c4b9a784858a94da4e/AndroidManifest.xml:27:9-31:43
+	android:authorities
+		ADDED from [android.arch.lifecycle:extensions:1.0.0-alpha9] /Users/rsk_mac/.gradle/caches/transforms-1/files-1.1/extensions-1.0.0-alpha9.aar/7debcb42945d31c4b9a784858a94da4e/AndroidManifest.xml:29:13-68
+	android:multiprocess
+		ADDED from [android.arch.lifecycle:extensions:1.0.0-alpha9] /Users/rsk_mac/.gradle/caches/transforms-1/files-1.1/extensions-1.0.0-alpha9.aar/7debcb42945d31c4b9a784858a94da4e/AndroidManifest.xml:31:13-40
+	android:exported
+		ADDED from [android.arch.lifecycle:extensions:1.0.0-alpha9] /Users/rsk_mac/.gradle/caches/transforms-1/files-1.1/extensions-1.0.0-alpha9.aar/7debcb42945d31c4b9a784858a94da4e/AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [android.arch.lifecycle:extensions:1.0.0-alpha9] /Users/rsk_mac/.gradle/caches/transforms-1/files-1.1/extensions-1.0.0-alpha9.aar/7debcb42945d31c4b9a784858a94da4e/AndroidManifest.xml:28:13-81

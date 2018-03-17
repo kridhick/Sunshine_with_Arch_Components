@@ -1,0 +1,114 @@
+# Referenced at /Users/rsk_mac/AndroidStudioProjects/Practice_Exercises/Sunshine_w_Arch_Components/app/build/intermediates/manifests/full/release/AndroidManifest.xml:90
+-keep class android.arch.lifecycle.LifecycleRuntimeTrojanProvider { <init>(...); }
+
+# Referenced at /Users/rsk_mac/AndroidStudioProjects/Practice_Exercises/Sunshine_w_Arch_Components/app/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/extra_weather_details.xml:0
+# Referenced at /Users/rsk_mac/AndroidStudioProjects/Practice_Exercises/Sunshine_w_Arch_Components/app/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/primary_weather_info.xml:0
+# Referenced at /Users/rsk_mac/AndroidStudioProjects/Practice_Exercises/Sunshine_w_Arch_Components/app/src/main/res/layout/forecast_list_item.xml:0
+# Referenced at /Users/rsk_mac/AndroidStudioProjects/Practice_Exercises/Sunshine_w_Arch_Components/app/src/main/res/layout/list_item_forecast_today.xml:0
+-keep class android.support.constraint.ConstraintLayout { <init>(...); }
+
+# Referenced at /Users/rsk_mac/AndroidStudioProjects/Practice_Exercises/Sunshine_w_Arch_Components/app/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/extra_weather_details.xml:0
+# Referenced at /Users/rsk_mac/AndroidStudioProjects/Practice_Exercises/Sunshine_w_Arch_Components/app/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/primary_weather_info.xml:0
+# Referenced at /Users/rsk_mac/AndroidStudioProjects/Practice_Exercises/Sunshine_w_Arch_Components/app/src/main/res/layout/forecast_list_item.xml:0
+# Referenced at /Users/rsk_mac/AndroidStudioProjects/Practice_Exercises/Sunshine_w_Arch_Components/app/src/main/res/layout/list_item_forecast_today.xml:0
+-keep class android.support.constraint.Guideline { <init>(...); }
+
+# Referenced at /Users/rsk_mac/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.1.aar/25fc8cfe83cfa1e2b7ea9a07be06dd34/res/layout/abc_alert_dialog_material.xml:0
+-keep class android.support.v4.widget.NestedScrollView { <init>(...); }
+
+# Referenced at /Users/rsk_mac/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.1.aar/25fc8cfe83cfa1e2b7ea9a07be06dd34/res/layout/abc_alert_dialog_button_bar_material.xml:0
+# Referenced at /Users/rsk_mac/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.1.aar/25fc8cfe83cfa1e2b7ea9a07be06dd34/res/layout/abc_alert_dialog_material.xml:0
+# Referenced at /Users/rsk_mac/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.1.aar/25fc8cfe83cfa1e2b7ea9a07be06dd34/res/layout/abc_alert_dialog_title_material.xml:0
+-keep class android.support.v4.widget.Space { <init>(...); }
+
+# Referenced at /Users/rsk_mac/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.1.aar/25fc8cfe83cfa1e2b7ea9a07be06dd34/res/layout/abc_select_dialog_material.xml:0
+-keep class android.support.v7.app.AlertController$RecycleListView { <init>(...); }
+
+# Referenced at /Users/rsk_mac/.gradle/caches/transforms-1/files-1.1/preference-v7-26.0.1.aar/d2e039cbe9546334c502430cd053ab3d/res/layout-v11/preference.xml:0
+# Referenced at /Users/rsk_mac/.gradle/caches/transforms-1/files-1.1/preference-v7-26.0.1.aar/d2e039cbe9546334c502430cd053ab3d/res/layout-v11/preference_dropdown.xml:0
+-keep class android.support.v7.internal.widget.PreferenceImageView { <init>(...); }
+
+# Referenced at /Users/rsk_mac/.gradle/caches/transforms-1/files-1.1/preference-v7-26.0.1.aar/d2e039cbe9546334c502430cd053ab3d/res/layout/preference_widget_seekbar.xml:0
+-keep class android.support.v7.preference.UnPressableLinearLayout { <init>(...); }
+
+# Referenced at /Users/rsk_mac/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.1.aar/25fc8cfe83cfa1e2b7ea9a07be06dd34/res/layout/abc_action_menu_item_layout.xml:0
+-keep class android.support.v7.view.menu.ActionMenuItemView { <init>(...); }
+
+# Referenced at /Users/rsk_mac/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.1.aar/25fc8cfe83cfa1e2b7ea9a07be06dd34/res/layout/abc_expanded_menu_layout.xml:0
+-keep class android.support.v7.view.menu.ExpandedMenuView { <init>(...); }
+
+# Referenced at /Users/rsk_mac/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.1.aar/25fc8cfe83cfa1e2b7ea9a07be06dd34/res/layout/abc_list_menu_item_layout.xml:0
+# Referenced at /Users/rsk_mac/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.1.aar/25fc8cfe83cfa1e2b7ea9a07be06dd34/res/layout/abc_popup_menu_item_layout.xml:0
+-keep class android.support.v7.view.menu.ListMenuItemView { <init>(...); }
+
+# Referenced at /Users/rsk_mac/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.1.aar/25fc8cfe83cfa1e2b7ea9a07be06dd34/res/layout-v26/abc_screen_toolbar.xml:0
+# Referenced at /Users/rsk_mac/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.1.aar/25fc8cfe83cfa1e2b7ea9a07be06dd34/res/layout/abc_screen_toolbar.xml:0
+-keep class android.support.v7.widget.ActionBarContainer { <init>(...); }
+
+# Referenced at /Users/rsk_mac/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.1.aar/25fc8cfe83cfa1e2b7ea9a07be06dd34/res/layout-v26/abc_screen_toolbar.xml:0
+# Referenced at /Users/rsk_mac/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.1.aar/25fc8cfe83cfa1e2b7ea9a07be06dd34/res/layout/abc_action_mode_bar.xml:0
+# Referenced at /Users/rsk_mac/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.1.aar/25fc8cfe83cfa1e2b7ea9a07be06dd34/res/layout/abc_screen_toolbar.xml:0
+-keep class android.support.v7.widget.ActionBarContextView { <init>(...); }
+
+# Referenced at /Users/rsk_mac/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.1.aar/25fc8cfe83cfa1e2b7ea9a07be06dd34/res/layout-v26/abc_screen_toolbar.xml:0
+# Referenced at /Users/rsk_mac/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.1.aar/25fc8cfe83cfa1e2b7ea9a07be06dd34/res/layout/abc_screen_toolbar.xml:0
+-keep class android.support.v7.widget.ActionBarOverlayLayout { <init>(...); }
+
+# Referenced at /Users/rsk_mac/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.1.aar/25fc8cfe83cfa1e2b7ea9a07be06dd34/res/layout/abc_action_menu_layout.xml:0
+-keep class android.support.v7.widget.ActionMenuView { <init>(...); }
+
+# Referenced at /Users/rsk_mac/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.1.aar/25fc8cfe83cfa1e2b7ea9a07be06dd34/res/layout/abc_activity_chooser_view.xml:0
+-keep class android.support.v7.widget.ActivityChooserView$InnerLayout { <init>(...); }
+
+# Referenced at /Users/rsk_mac/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.1.aar/25fc8cfe83cfa1e2b7ea9a07be06dd34/res/layout/abc_alert_dialog_material.xml:0
+-keep class android.support.v7.widget.AlertDialogLayout { <init>(...); }
+
+# Referenced at /Users/rsk_mac/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.1.aar/25fc8cfe83cfa1e2b7ea9a07be06dd34/res/layout/abc_alert_dialog_button_bar_material.xml:0
+-keep class android.support.v7.widget.ButtonBarLayout { <init>(...); }
+
+# Referenced at /Users/rsk_mac/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.1.aar/25fc8cfe83cfa1e2b7ea9a07be06dd34/res/layout/abc_screen_content_include.xml:0
+-keep class android.support.v7.widget.ContentFrameLayout { <init>(...); }
+
+# Referenced at /Users/rsk_mac/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.1.aar/25fc8cfe83cfa1e2b7ea9a07be06dd34/res/layout/abc_alert_dialog_title_material.xml:0
+-keep class android.support.v7.widget.DialogTitle { <init>(...); }
+
+# Referenced at /Users/rsk_mac/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.1.aar/25fc8cfe83cfa1e2b7ea9a07be06dd34/res/layout/abc_screen_simple_overlay_action_mode.xml:0
+-keep class android.support.v7.widget.FitWindowsFrameLayout { <init>(...); }
+
+# Referenced at /Users/rsk_mac/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.1.aar/25fc8cfe83cfa1e2b7ea9a07be06dd34/res/layout/abc_dialog_title_material.xml:0
+# Referenced at /Users/rsk_mac/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.1.aar/25fc8cfe83cfa1e2b7ea9a07be06dd34/res/layout/abc_screen_simple.xml:0
+-keep class android.support.v7.widget.FitWindowsLinearLayout { <init>(...); }
+
+# Referenced at /Users/rsk_mac/.gradle/caches/transforms-1/files-1.1/preference-v7-26.0.1.aar/d2e039cbe9546334c502430cd053ab3d/res/layout/preference_recyclerview.xml:0
+# Referenced at /Users/rsk_mac/AndroidStudioProjects/Practice_Exercises/Sunshine_w_Arch_Components/app/src/main/res/layout/activity_forecast.xml:0
+-keep class android.support.v7.widget.RecyclerView { <init>(...); }
+
+# Referenced at /Users/rsk_mac/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.1.aar/25fc8cfe83cfa1e2b7ea9a07be06dd34/res/layout/abc_search_view.xml:0
+-keep class android.support.v7.widget.SearchView$SearchAutoComplete { <init>(...); }
+
+# Referenced at /Users/rsk_mac/.gradle/caches/transforms-1/files-1.1/preference-v7-26.0.1.aar/d2e039cbe9546334c502430cd053ab3d/res/layout/preference_widget_switch_compat.xml:0
+-keep class android.support.v7.widget.SwitchCompat { <init>(...); }
+
+# Referenced at /Users/rsk_mac/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.1.aar/25fc8cfe83cfa1e2b7ea9a07be06dd34/res/layout-v26/abc_screen_toolbar.xml:0
+# Referenced at /Users/rsk_mac/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.1.aar/25fc8cfe83cfa1e2b7ea9a07be06dd34/res/layout/abc_screen_toolbar.xml:0
+-keep class android.support.v7.widget.Toolbar { <init>(...); }
+
+# Referenced at /Users/rsk_mac/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.1.aar/25fc8cfe83cfa1e2b7ea9a07be06dd34/res/layout/abc_screen_simple.xml:0
+# Referenced at /Users/rsk_mac/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.1.aar/25fc8cfe83cfa1e2b7ea9a07be06dd34/res/layout/abc_screen_simple_overlay_action_mode.xml:0
+-keep class android.support.v7.widget.ViewStubCompat { <init>(...); }
+
+# Referenced at /Users/rsk_mac/AndroidStudioProjects/Practice_Exercises/Sunshine_w_Arch_Components/app/build/intermediates/manifests/full/release/AndroidManifest.xml:66
+-keep class com.example.android.sunshine.data.network.SunshineFirebaseJobService { <init>(...); }
+
+# Referenced at /Users/rsk_mac/AndroidStudioProjects/Practice_Exercises/Sunshine_w_Arch_Components/app/build/intermediates/manifests/full/release/AndroidManifest.xml:61
+-keep class com.example.android.sunshine.data.network.SunshineSyncIntentService { <init>(...); }
+
+# Referenced at /Users/rsk_mac/AndroidStudioProjects/Practice_Exercises/Sunshine_w_Arch_Components/app/build/intermediates/manifests/full/release/AndroidManifest.xml:50
+-keep class com.example.android.sunshine.ui.detail.DetailActivity { <init>(...); }
+
+# Referenced at /Users/rsk_mac/AndroidStudioProjects/Practice_Exercises/Sunshine_w_Arch_Components/app/build/intermediates/manifests/full/release/AndroidManifest.xml:37
+-keep class com.example.android.sunshine.ui.list.MainActivity { <init>(...); }
+
+# Referenced at /Users/rsk_mac/AndroidStudioProjects/Practice_Exercises/Sunshine_w_Arch_Components/app/build/intermediates/manifests/full/release/AndroidManifest.xml:81
+-keep class com.firebase.jobdispatcher.GooglePlayReceiver { <init>(...); }
+

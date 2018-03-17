@@ -1,0 +1,4 @@
+#Wed Mar 14 20:43:31 PDT 2018
+base.0=/Users/rsk_mac/AndroidStudioProjects/Practice_Exercises/Sunshine_w_Arch_Components/app/build/intermediates/transforms/dexMerger/debug/5
+path.0=classes.dex
+renamed.0=classes.dex
